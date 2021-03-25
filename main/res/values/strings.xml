@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task2.1P</string>
+    <string name="button">Button</string>
+
+    <string-array name="spinnerArray">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilogram</item>
+    </string-array>
+
+</resources>
